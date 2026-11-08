@@ -340,3 +340,6 @@ Happy optimizing! 🚀
 ## Information
 
 This repo is maintained by [SerpApi](https://serpapi.com?utm_source=awesome-seo-tools) team: "Scrape Google and other search engines from our fast, easy, and complete API."
+
+
+- [SerpPrism](https://www.serpprism.com) - Free, 100% client-side SEO tools: SERP snippet preview, robots.txt tester (RFC 9309), heading audit, JSON-LD validator, UTM builder, and 40+ field guides. No signup, no crawl, no data upload.
